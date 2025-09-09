@@ -359,7 +359,7 @@
                 
                 <div class="warning-text">
                     <strong>Warning:</strong> You are about to permanently delete this user from the system. 
-                    This action cannot be undone and all associated data will be lost.
+                    This action cannot be undone and all associated data will be lost!!
                 </div>
                 
                 <div class="danger-zone">
